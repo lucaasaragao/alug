@@ -1,0 +1,9 @@
+/node_modules
+/storage/*.key
+/vendor
+/.idea
+/.vscode
+/.vagrant
+.env
+.sass-cache/
+*.css.map
